@@ -16,20 +16,19 @@ hr {
 
 /*Nav bar CSS*/
 nav {
-	background-color:#ffcfd9;
+	background-color:#918E8E;
 	padding:10px;
 	}
 
 nav a:hover {
 	text-decoration:underline;
-	background-color:#fa786a;
+	background-color:#FDD3D3;
 	font-weight:bold;
 	font-style:italic;
 	}
 
 nav li {
 	list-style:none;
-	display:inline;
 	padding:5px;
 	}
 
@@ -52,7 +51,7 @@ p {
 
 
 h2 {
-	background-color:#cab8f7;
+	background-color:#E4080A;
 	padding:10px;
 	display:inline-block;
 	}
@@ -93,12 +92,13 @@ th[colspan="4"] {
 	height:60px;
 	text-align:center;
 	font-size:1.25rem;
-	background-color:#8FACF8;
+	background-color:#000000;
 	text-transform:uppercase;
+	color:#FFFFFF;
 	}
 
 table, th, td {
-	border:1px solid;
+	border:2px solid;
 	padding:5px 10px
 	}
 
@@ -129,7 +129,7 @@ table {
 	
 #links ul li a:hover {
 	text-decoration:underline;
-	background-color:#fa786a;
+	background-color:#FDD3D3;
 	font-weight:bold;
 	font-style:italic;
 	}
@@ -146,18 +146,17 @@ input[type=reset], input[type=submit] {
 	width:15%;
 	height:30px;
 	font-size:1.15rem;
-	font-weight:bold;
-	color:#fff;
+	color:#000;
 	border-radius:15px;
 	border:none;
 	}
 
 input[type=reset] {
-	background-color:#DE6F6F;
+	background-color:#FFDE59;
 	}
 	
 input[type=submit] {
-	background-color:#77DE6F;
+	background-color:#7DDA58;
 	}
 
 #button {
